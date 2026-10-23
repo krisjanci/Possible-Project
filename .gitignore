@@ -1,0 +1,4 @@
+.build/
+.swiftpm/
+NextStep.app/
+.DS_Store
