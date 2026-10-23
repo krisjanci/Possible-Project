@@ -5,4 +5,3 @@
 - Apple Foundation Models generates interview preparation locally from a selected job description.
 - Gmail and LinkedIn connection screens use demo data until provider credentials and approved production APIs are supplied.
 - Workspace data persists locally with `UserDefaults`.
-
