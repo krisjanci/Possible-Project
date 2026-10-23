@@ -12,4 +12,3 @@
 - Anonymous timeline data from other applicants
 - School career-center resources
 - Employer-side status updates
-
